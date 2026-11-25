@@ -34,10 +34,10 @@ Experience ranges from 1 to 10 years and salary from 22,000 to 65,000.
 | Metric | Value |
 |---|---|
 | Correlation (Experience vs Salary) | 0.9993 |
-| Mean Absolute Error (MAE) | ~633.62 |
-| Mean Squared Error (MSE) | ~542,100.18 |
-| Root Mean Squared Error (RMSE) | ~736.27 |
-| R² Score | ~0.998 |
+| Mean Absolute Error (MAE) | 633.62 |
+| Mean Squared Error (MSE) | 542,100.18 |
+| Root Mean Squared Error (RMSE) | 736.27 |
+| R² Score | 0.998 |
 
 Fitted line: `Salary ≈ 4818.97 × Experience_Years + 16620.69`
 
